@@ -21,7 +21,7 @@ sections:
 
     media:
       type: ImageBlock
-      url: /images/IMG_5079.JPG
+      url: /images/Untitled Project.png
       altText: Hero image
     styles:
       self:
