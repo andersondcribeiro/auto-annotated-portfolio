@@ -14,12 +14,10 @@ sections:
     colors: colors-f
     backgroundSize: full
     text: >+
-      Olá! Sou Anderson DC Ribeiro, um apaixonado por criar produtos digitais
+      # Olá! Sou Anderson DC Ribeiro, um apaixonado por criar produtos digitais
       centrados no usuário. Com mais de 8 anos de experiência em UX/UI, ajudo
       empresas a transformar ideias em experiências intuitivas, inovadoras e
       orientadas por dados.
-
-
 
 
       #
