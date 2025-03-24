@@ -13,12 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >+
-      # Hey I’m a developer. I’ve been born and raised in the world, and that’s
-      also where I’m based. I’m currently a free agent, ex-this, ex-that,
-      ex-super big name. When I’m not coding, writing or creating, I eat
-      cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
-
+    text: "Olá! Sou Anderson DC Ribeiro, um apaixonado por criar produtos digitais centrados no usuário. Com mais de 8 anos de experiência em UX/UI, ajudo empresas a transformar ideias em experiências intuitivas, inovadoras e orientadas por dados.\n\nLiderei projetos de impacto, como o desenvolvimento de um aplicativo financeiro que aumentou em 30% a retenção de usuários e a conversão de serviços financeiros em apenas seis meses.\n\n\U0001F3AF Experiência e Formação\n• Atuei em diversos segmentos, desde advocacia até benefícios corporativos, sempre focado na experiência do usuário.\n• Sou formado em Análise e Desenvolvimento de Sistemas, com especialização em Experiência do Cliente pela FGV e certificações de instituições como IDEO-U, Interaction Design Foundation (IxDF) e Curso PM3.\n\n\U0001F539 Principais Habilidades\n\n✔ UX & UI Design\n✔ UX Research\n✔ Gestão de Projetos e Estratégia de Produto\n✔ Prototipagem interativa\n✔ Design Thinking\n✔ IA aplicada ao UX/UI e Metodologias Ágeis (Scrum/Kanban)\n✔ Figma / Photoshop / Ilustrator / Adobe XD\n✔ Desing Sprint / Lean Inception\n✔ Service design\n✔ Data Driven\n✔ FigJam / Miro / Notion\n✔ Hotjar / Maze / Mixpanel / Dovetail\n\n\U0001F4DA Interesses Pessoais & Inspirações\nCurto fotografia, inovação e explorar novas formas de trabalho no design. Sou fascinado por psicologia, sociologia e antropologia, pois acredito que a essência do design está na compreensão humana.\n\n\U0001F4D6 Leituras que me inspiram: Tecnodiversidade (Yuk Hui), Política do Design (Ruben Pater), O Design do Dia a Dia (Don Norman) e Rápido e Devagar (Daniel Kahneman).\n\n\U0001F3AE Fatos Aleatórios\nJá fui DJ, trabalhei como GO no Clube Med, sou gamer de final de semana (team XBOX e FPS) e amante de comida regional e música eletrônica.\n==========================================================================================================================================\n"
     media:
       type: ImageBlock
       url: /images/Untitled Project.png
