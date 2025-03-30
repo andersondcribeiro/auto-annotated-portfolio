@@ -12,7 +12,7 @@ backgroundImage:
 sections:
   - elementId: ''
     colors: colors-f
-    backgroundSize: inset
+    backgroundSize: full
     text: >+
       # Olá! Eu sou o Anderson DC Ribeiro — digital product designer, ajudo
       empresas a criarem jornadas de experiências que geram valor para pessoas e
